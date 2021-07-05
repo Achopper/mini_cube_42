@@ -1,0 +1,19 @@
+R  1920  1020
+NO      ./textures/colorstone.xpm
+SO         ./textures/mossy.xpm
+WE      ./textures/imgp5514_seamless_2.xpm
+EA          ./textures/rockfloorbig.xpm
+S    ./textures/barrel.xpm
+C 102,178,255
+F 0,0,0
+
+
+
+11111111111111111111
+10000000000000000201
+10000001000001000201
+10020000000000002201
+10000000000000000001
+100000000000000S0001
+10000000000000000001
+11111111111111111111
